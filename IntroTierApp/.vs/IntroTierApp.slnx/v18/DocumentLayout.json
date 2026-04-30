@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\dal\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -11,32 +47,8 @@
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\mvcapp\\mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{36F4324E-6534-777B-2635-B7152C37F1D8}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\c\\introtierapp\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,32 +62,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Program.cs",
-              "RelativeDocumentMoniker": "MVCApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Program.cs",
-              "RelativeToolTip": "MVCApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T06:20:00.934Z",
+              "WhenOpened": "2026-04-30T06:04:30.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repository\\StudentRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:51:50.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DepartmentRepo.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\Repository\\DepartmentRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repository\\DepartmentRepo.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\Repository\\DepartmentRepo.cs",
               "RelativeToolTip": "DAL\\Repository\\DepartmentRepo.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:49:13.753Z"
+              "WhenOpened": "2026-04-27T05:49:13.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:42:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:24:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\appsettings.json",
+              "RelativeToolTip": "MVCApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T05:19:46.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -88,20 +153,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVCApp\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:42:15.147Z",
+              "WhenOpened": "2026-04-27T05:37:52.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Program.cs",
+              "RelativeToolTip": "MVCApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:20:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
@@ -114,32 +192,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "MVCApp\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "MVCApp\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:37:52.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MVCApp.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\MVCApp.csproj",
               "RelativeDocumentMoniker": "MVCApp\\MVCApp.csproj",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\MVCApp\\MVCApp.csproj",
               "RelativeToolTip": "MVCApp\\MVCApp.csproj",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-27T05:26:16.7Z"
+              "WhenOpened": "2026-04-27T05:26:16.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -147,19 +213,8 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:24:15.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\C\\IntroTierApp\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:24:01.643Z"
+              "WhenOpened": "2026-04-27T05:24:15.245Z",
+              "EditorCaption": ""
             }
           ]
         }
